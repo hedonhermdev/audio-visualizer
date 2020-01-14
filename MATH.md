@@ -1,0 +1,1 @@
+Uses FFT for displaying amplitude of frequency bins 
